@@ -1,6 +1,6 @@
 # Mohammad Iqbal Nouyed, PhD
 
-**Postdoctoral Research Fellow & Lecturer**  
+**Postdoctoral Research Fellow**  
 West Virginia University · Morgantown, WV
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=LGOwfeAAAAAJ&hl=en)
