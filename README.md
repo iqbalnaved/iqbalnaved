@@ -25,12 +25,16 @@ Clinical AI evaluation and safety in healthcare. My work systematically benchmar
 
 ### Clinical AI Evaluation & Safety
 
-- **Nouyed et al.** "Sensing but Not Alerting: The Cost of Sycophancy in ChatGPT Psychodermatology Consultations." *JAAD International*, under review.
-- **Nouyed et al.** "Text-Dominant Decision-Making by Large Multimodal Models in Dermatology Clinical Challenges." *JAAD*, under review.
-- **Nouyed et al.** "The cost of AI sycophancy in dermoscopic diagnosis." *JAAD*, under review.
+- **Nouyed et al.** "Sensing but Not Alerting: ChatGPT Mental Health Triage Gaps in Simulated Psychodermatology Conversations." *JAAD International*, 2026.
+- **Nouyed et al.** "Text-Dominant Decision-Making by Large Multimodal Models in Dermatology Clinical Challenges." *JAAD*, 2026. [doi:10.1016/j.jaad.2026.02992](https://doi.org/10.1016/j.jaad.2026.02992)
+- **Nouyed et al.** "The cost of AI sycophancy in dermoscopic diagnosis." *JAAD*, 2026.
 - **Nouyed et al.** "Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification." *Diagnostics*, 2026. [doi:10.3390/diagnostics16101504](https://doi.org/10.3390/diagnostics16101504)
 - **Zheng, Chandran, Elswick, Nouyed et al.** "Evaluation of AI-generated vignettes depicting patient chatbot use in psychiatric contexts." *npj Digital Medicine*, 2026. [doi:10.1038/s41746-026-02605-6](https://doi.org/10.1038/s41746-026-02605-6)
 - **Akhter, Nouyed et al.** "Evolving performance of GPT models in dermoscopic diagnosis." *JAAD*, 2026. [doi:10.1016/j.jaad.2025.09.119](https://doi.org/10.1016/j.jaad.2025.09.119)
+
+> **JAAD** — IF 12.3 · #1 of 99 dermatology journals (7th consecutive year) · Most cited dermatology journal in the world (Clarivate JCR 2025)  
+> **JAAD International** — IF 6.5 · #8 of 99 dermatology journals (Clarivate JCR 2025)  
+> **npj Digital Medicine** — IF 18.0 · 5-year IF 19.7 · Top 0.5% of all journals (99.5th percentile) · Nature Portfolio
 
 ### Computational Pathology & Computer Vision
 
