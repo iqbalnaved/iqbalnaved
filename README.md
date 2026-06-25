@@ -14,7 +14,7 @@ West Virginia University · Morgantown, WV
 Clinical AI evaluation and safety in healthcare. My work systematically benchmarks large language models and multimodal foundation models across dermatology, psychiatry, ophthalmology, and computational pathology, with emphasis on failure modes that carry direct patient safety implications.
 
 **Active research threads:**
-- **Chatbot sycophancy** — multi-agent simulation frameworks evaluating people-pleasing behavior in patient-facing AI systems
+- **Chatbot sycophancy** — simulated harness evaluating people-pleasing behavior in patient-facing AI systems
 - **Prompt framing bias** — quantifying how prompt framing (concerned / neutral / unconcerned) distorts LLM diagnostic accuracy in dermoscopy
 - **Text-dominant reasoning in multimodal models** — documenting the failure of large multimodal models to integrate image evidence when text context is available
 - **Foundation model benchmarking** — zero-shot, few-shot, fine-tuning, and linear probing comparisons across general-purpose and domain-specific models for melanoma classification and diabetic retinopathy grading
@@ -25,8 +25,8 @@ Clinical AI evaluation and safety in healthcare. My work systematically benchmar
 
 ### Clinical AI Evaluation & Safety
 
-- **Nouyed et al.** "Sensing but Not Alerting: ChatGPT Mental Health Triage Gaps in Simulated Psychodermatology Conversations." *JAAD International*, 2026.
-- **Nouyed et al.** "Text-Dominant Decision-Making by Large Multimodal Models in Dermatology Clinical Challenges." *JAAD*, 2026. [doi:10.1016/j.jaad.2026.02992](https://doi.org/10.1016/j.jaad.2026.02992)
+- **Nouyed, Kozlowski et al.** "Sensing but not alerting: ChatGPT mental health triage gaps in simulated psychodermatology conversations." *JAAD International*, 2026. [doi:10.1016/j.jdin.2026.06.012](https://doi.org/10.1016/j.jdin.2026.06.012)
+- **Nouyed et al.** "Text-Dominant Decision-Making by Large Multimodal Models in Dermatology Clinical Challenges." *JAAD*, 2026. [doi:10.1016/j.jaad.2026.05.129](https://doi.org/10.1016/j.jaad.2026.05.129)
 - **Nouyed et al.** "The cost of AI sycophancy in dermoscopic diagnosis." *JAAD*, 2026.
 - **Nouyed et al.** "Comparative Analysis of General-Purpose vs. Domain-Specific Multimodal Models for Diabetic Retinopathy Classification." *Diagnostics*, 2026. [doi:10.3390/diagnostics16101504](https://doi.org/10.3390/diagnostics16101504)
 - **Zheng, Chandran, Elswick, Nouyed et al.** "Evaluation of AI-generated vignettes depicting patient chatbot use in psychiatric contexts." *npj Digital Medicine*, 2026. [doi:10.1038/s41746-026-02605-6](https://doi.org/10.1038/s41746-026-02605-6)
